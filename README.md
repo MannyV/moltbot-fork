@@ -1,5 +1,7 @@
 # 🦞 Moltbot — Personal AI Assistant
 
+> *Last maintenance check: January 28, 2026*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/moltbot/moltbot/main/docs/whatsapp-clawd.jpg" alt="Clawdbot" width="400">
 </p>
